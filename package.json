@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "build-gh-pages": "ng build --output-path docs --base-href /gh-pages-2bc7f69c-a315-498c-b93a-f413b393888d/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
