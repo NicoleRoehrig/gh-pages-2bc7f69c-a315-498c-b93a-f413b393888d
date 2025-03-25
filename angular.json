@@ -41,6 +41,11 @@
           },
           "configurations": {
             "production": {
+              "outputPath": {
+                "base": "docs",
+                "browser": ""
+              },
+              "baseHref": "/gh-pages-2bc7f69c-a315-498c-b93a-f413b393888d/",
               "budgets": [
                 {
                   "type": "initial",
